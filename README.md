@@ -57,5 +57,8 @@
 
   <h2>Acknowledgments</h2>
     <p>Inspiration for writing this code came from intereactions with my college professors and a book on acoustics by DP Roychowdhury .</p>
+<h2>License</h2>
+    <p>
+        This project is licensed under the MIT License. Feel free to use, modify, and distribute this code with attribution.
 </body>
 </html>
