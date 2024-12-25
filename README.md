@@ -53,7 +53,12 @@
 
    <h2>Output Example</h2>
     <p>The animation showcases dynamic vector motion and evolving patterns, providing visual insights into oscillatory systems and phase interactions.
-    </p>
+        
+
+![ani](https://github.com/user-attachments/assets/3d1a617e-08d2-4c7e-81c6-69c4548057b3)
+
+</p>
+
 
   <h2>Acknowledgments</h2>
     <p>Inspiration for writing this code came from intereactions with my college professors and a book on acoustics by DP Roychowdhury .</p>
